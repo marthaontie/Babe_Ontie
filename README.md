@@ -4,7 +4,7 @@
 📍 Based in Botswana | Turning raw data into real impact with clean code and clever dashboards  
 💻 I don’t just analyze data — I build systems that *own* it.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 🚀 About Me
 
@@ -12,7 +12,7 @@
 🛠 From scripting automation on Linux servers to building live dashboards and fraud detection tools — I bring full-stack energy to data work.  
 📊 I don’t wait for insights — I engineer pipelines, monitoring tools, and alert systems that deliver them *on command*.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -31,7 +31,7 @@
 - **UX, Tools & Productivity:**  
   🎨 Figma | 🧠 Notion | 🗂️ VS Code | 🧰 SFTP Clients
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 💼 Professional Superpowers
 
@@ -41,7 +41,7 @@
 ✅ Developing tools that push alerts, and extract meaning from messy raw files  
 ✅ Mastering the art of transforming data into action — whether it’s zipped, encrypted, or undocumented
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 📁 Featured Projects
 
@@ -63,7 +63,7 @@ Automated tool that connects to a remote SFTP, downloads zipped transaction repo
 🛠️ Bash + Python + Cron + Email Notifs  
 🔗 [View Project](https://github.com/Babe_Ontie/Recon-Automation-Tool)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## 📬 Let’s Connect
 
